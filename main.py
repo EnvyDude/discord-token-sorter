@@ -61,7 +61,6 @@ os.system('cls')
 #     elif premium_type == 2:
 #         return 2
 
-# check_type(token = "MTAzMTA4NDAyMTk2MDE1OTMwMg.GvH-b0.4a6AD-o_lXrY11SU8gZmrKt4OJgdLhcufvP3H0")
 
 # def sub_id(token : None):
 #     headers = {"Authorization": token}
